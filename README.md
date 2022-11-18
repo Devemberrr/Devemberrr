@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devemberrr
 - 👀 I’m interested in Cybersecurity, Coding, Technology, and Basketball
-- 🌱 I’m currently learning Cybersecurity, Go, and a tad bit of Portuguese
+- 🌱 I’m currently learning Cybersecurity, Go, and Portuguese
 - 💞️ I’m looking to collaborate on ...(pending)
 - 📫 How to reach me is by email
 
